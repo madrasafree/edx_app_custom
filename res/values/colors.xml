@@ -17,9 +17,11 @@
     <color name="primaryDarkColor_Opacity_30">#4D002121</color>
 
     <!--  Brand 500  -->
-    <color name="secondaryBaseColor">#D23228</color>
+    <color name="secondaryBaseColor">#5D82D9
+    </color>
     <!--  Brand 700  -->
-    <color name="secondaryDarkColor">#921108</color>
+    <color name="secondaryDarkColor">#5D82D9
+    </color>
 
     <!--  Accent A Isotope Blue  -->
     <color name="accentAColor">#03C7E8</color>

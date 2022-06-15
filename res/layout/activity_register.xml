@@ -32,6 +32,15 @@
                 android:layout_marginEnd="@dimen/widget_margin_double"
                 android:orientation="vertical">
 
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/login_logo"
+                    android:layout_width="134dp"
+                    android:layout_height="94dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_gravity="center"
+                    android:contentDescription="@string/phonetic_app_name"
+                    app:srcCompat="@drawable/login_screen_logo" />
+
                 <LinearLayout
                     android:id="@+id/message_layout"
                     android:layout_width="match_parent"

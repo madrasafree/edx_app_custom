@@ -34,19 +34,11 @@
                     android:layout_marginEnd="@dimen/login_margin_horizontal"
                     android:layout_marginBottom="@dimen/login_logo_margin_bottom">
 
-                    <androidx.appcompat.widget.AppCompatImageView
-                        android:id="@+id/login_map"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center"
-                        android:contentDescription="@null"
-                        android:scaleType="fitXY"
-                        app:srcCompat="@drawable/login_screen_image" />
 
                     <androidx.appcompat.widget.AppCompatImageView
                         android:id="@+id/login_logo"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
+                        android:layout_width="150dp"
+                        android:layout_height="112dp"
                         android:layout_gravity="center"
                         android:contentDescription="@string/phonetic_app_name"
                         app:srcCompat="@drawable/login_screen_logo" />
