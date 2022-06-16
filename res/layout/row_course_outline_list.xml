@@ -47,13 +47,15 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="-1dp"
                 android:layout_toEndOf="@+id/completed"
                 android:drawablePadding="@dimen/edx_half_margin"
                 android:ellipsize="end"
-                android:maxLines="1"
+                android:fontFamily="@font/abraham_light"
                 android:paddingEnd="@dimen/widget_margin_half"
                 android:textDirection="locale"
-                android:textSize="@dimen/edx_base"
+                android:textSize="18dp"
                 tools:text="Title" />
 
             <LinearLayout
@@ -69,8 +71,8 @@
 
                 <androidx.appcompat.widget.AppCompatImageView
                     android:id="@+id/row_subtitle_icon"
-                    android:layout_width="@dimen/ic_large"
-                    android:layout_height="@dimen/ic_large"
+                    android:layout_width="0.1dp"
+                    android:layout_height="0.1dp"
                     android:layout_gravity="top"
                     android:layout_marginEnd="@dimen/widget_margin_half"
                     android:visibility="gone"
@@ -85,7 +87,7 @@
                     android:layout_marginEnd="@dimen/widget_margin_double"
                     android:textColor="@color/neutralXXDark"
                     android:textDirection="locale"
-                    android:textSize="@dimen/edx_small"
+                    android:textSize="0.1dp"
                     android:visibility="gone"
                     tools:text="Subtitle"
                     tools:visibility="visible" />
@@ -97,7 +99,7 @@
                     android:layout_gravity="top"
                     android:textColor="@color/neutralXXDark"
                     android:textDirection="locale"
-                    android:textSize="@dimen/edx_small"
+                    android:textSize="0.1dp"
                     android:visibility="gone"
                     tools:text="28.4 MB"
                     tools:visibility="visible" />

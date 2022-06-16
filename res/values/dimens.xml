@@ -176,12 +176,12 @@
     <dimen name="edx_xx_large">24sp</dimen>
     <dimen name="edx_x_large">21sp</dimen>
     <dimen name="edx_large">18sp</dimen>
-    <dimen name="edx_base">16sp</dimen>
-    <dimen name="edx_medium">15sp</dimen>
-    <dimen name="edx_small">14sp</dimen>
+    <dimen name="edx_base">17sp</dimen>
+    <dimen name="edx_medium">16sp</dimen>
+    <dimen name="edx_small">15sp</dimen>
     <dimen name="edx_x_small">12sp</dimen>
-    <dimen name="edx_xx_small">11sp</dimen>
-    <dimen name="edx_xxx_small">10sp</dimen>
+    <dimen name="edx_xx_small">12sp</dimen>
+    <dimen name="edx_xxx_small">11sp</dimen>
 
     <!-- Icons Sizes -->
     <dimen name="ic_xxxx_large">38dp</dimen>
@@ -196,7 +196,7 @@
 
     <!-- Unorganized Icons Sizes -->
     <dimen name="x_small_icon_margin">5dp</dimen>
-    <dimen name="small_icon_size">15dp</dimen>
+    <dimen name="small_icon_size">17dp</dimen>
     <dimen name="medium_icon_size">35dp</dimen>
 
     <dimen name="large_indicator_icon_width">100dp</dimen>
