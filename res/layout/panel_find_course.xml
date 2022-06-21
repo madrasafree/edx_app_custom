@@ -28,20 +28,21 @@
                     style="@style/regular_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="@dimen/edx_margin"
                     android:layout_marginTop="@dimen/edx_margin"
+                    android:layout_marginBottom="@dimen/edx_margin"
                     android:gravity="center"
-                    android:text="@string/find_course_text"
+                    android:text="@string/learn_more"
                     android:textColor="@color/primaryBaseColor"
                     android:textSize="@dimen/edx_base" />
 
                 <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/course_btn"
                     style="@style/edX.Widget.ActionBrandPillButton"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="@dimen/edx_margin"
-                    android:text="@string/find_course_btn_text" />
+                    android:padding="12dp"
+                    android:text="@string/madrasa_courses_list" />
 
             </LinearLayout>
         </androidx.cardview.widget.CardView>

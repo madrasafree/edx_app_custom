@@ -14,7 +14,7 @@
 
         <FrameLayout
             android:layout_width="match_parent"
-            android:layout_height="@dimen/upgrade_now_button_height"
+            android:layout_height="0dp"
             android:background="@drawable/edx_brand_button">
 
             <com.google.android.material.button.MaterialButton

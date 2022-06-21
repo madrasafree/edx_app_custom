@@ -55,7 +55,7 @@
                 android:fontFamily="@font/abraham_light"
                 android:paddingEnd="@dimen/widget_margin_half"
                 android:textDirection="locale"
-                android:textSize="18dp"
+                android:textSize="19dp"
                 tools:text="Title" />
 
             <LinearLayout

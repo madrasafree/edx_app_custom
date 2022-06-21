@@ -196,7 +196,7 @@
 
     <!-- Unorganized Icons Sizes -->
     <dimen name="x_small_icon_margin">5dp</dimen>
-    <dimen name="small_icon_size">17dp</dimen>
+    <dimen name="small_icon_size">19dp</dimen>
     <dimen name="medium_icon_size">35dp</dimen>
 
     <dimen name="large_indicator_icon_width">100dp</dimen>

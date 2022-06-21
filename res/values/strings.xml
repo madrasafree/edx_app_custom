@@ -658,4 +658,9 @@
     <string name="celebration_share_message">I\'m on my way to completing {course_name} online with @{platform_name}online. What are you spending your time learning? #my{platform_name}journey</string>
     <!-- accessibility label for section completion-->
     <string name="course_outline_completion_description">Completed</string>
+
+
+    <!--    Madrasa's Strings-->
+    <string name="learn_more">רוצים ללמוד עוד?</string>
+    <string name="madrasa_courses_list">לרשימת הקורסים של מדרסה</string>
 </resources>

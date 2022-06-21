@@ -9,4 +9,4 @@
     android:paddingEnd="@dimen/widget_margin_double"
     android:paddingStart="@dimen/widget_margin_double"
     android:paddingTop="@dimen/widget_margin"
-    android:textSize="@dimen/edx_base" />
+    android:textSize="18sp" />
