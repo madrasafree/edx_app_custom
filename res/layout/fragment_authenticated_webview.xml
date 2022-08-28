@@ -27,8 +27,8 @@
 
             <TextView
                 android:id="@+id/tv_open_browser"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
                 android:background="@color/infoXXLight"
                 android:fontFamily="?attr/fontRegular"
                 android:paddingStart="@dimen/open_in_browser_text_horizontal_padding"

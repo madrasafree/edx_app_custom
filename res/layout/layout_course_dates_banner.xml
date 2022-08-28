@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         android:background="@color/infoXXLight"
         android:orientation="vertical"
-        android:padding="@dimen/container_padding"
+        android:padding="0sp"
         android:visibility="gone"
         tools:visibility="visible">
 
@@ -42,8 +42,8 @@
 
             <TextView
                 android:id="@+id/banner_info"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
                 android:fontFamily="?attr/fontRegular"
                 android:lineSpacingMultiplier="@dimen/course_date_desc_line_spacing"
                 android:text="@string/course_dates_info_banner"

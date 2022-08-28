@@ -91,7 +91,7 @@
   <!--Button text to show user current downloads screen-->
   <string name="label_current_downloads">צפו בהורדות המתבצעות כעת</string>
   <!--Title of user's course list screen-->
-  <string name="label_my_courses">קורסים</string>
+  <string name="label_my_courses">הקורסים שלי</string>
   <!--Title of user's program list screen-->
   <string name="label_my_programs">תכניות</string>
   <!--Title of native Find Courses Screen-->
@@ -101,7 +101,7 @@
   <!--Title of Degrees tab on Discovery screen-->
   <string name="label_degrees">תארים</string>
   <!--Title of Find Courses tab on Main Dashboard screen-->
-  <string name="label_discovery">גילוי</string>
+  <string name="label_discovery">כל הקורסים</string>
   <!--Button allowing users to send an email for feedback-->
   <string name="label_submit_feedback">הגש משוב</string>
   <!--Toggle switch on state label-->
@@ -583,4 +583,6 @@
   <!--Sharing message when user wants to share the celebration-->
   <!--accessibility label for section completion-->
   <string name="course_outline_completion_description">הושלם</string>
+  <string name="label_resume">המשיכו ללמוד מהמקום שעצרתם</string>
+
 </resources>
